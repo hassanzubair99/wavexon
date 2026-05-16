@@ -1,0 +1,8 @@
+{
+  "name": "Remix: WaveXon Technologies",
+  "description": "Enterprise-grade network visibility and guest Wi-Fi portal intelligence platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
